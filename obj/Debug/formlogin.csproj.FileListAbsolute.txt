@@ -1,0 +1,11 @@
+C:\Users\Alumno\Documents\Rlogin\formlogin\bin\Debug\formlogin.exe.config
+C:\Users\Alumno\Documents\Rlogin\formlogin\bin\Debug\formlogin.exe
+C:\Users\Alumno\Documents\Rlogin\formlogin\bin\Debug\formlogin.pdb
+C:\Users\Alumno\Documents\Rlogin\formlogin\obj\Debug\formlogin.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\Rlogin\formlogin\obj\Debug\formlogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Documents\Rlogin\formlogin\obj\Debug\formlogin.Form1.resources
+C:\Users\Alumno\Documents\Rlogin\formlogin\obj\Debug\formlogin.Properties.Resources.resources
+C:\Users\Alumno\Documents\Rlogin\formlogin\obj\Debug\formlogin.csproj.GenerateResource.cache
+C:\Users\Alumno\Documents\Rlogin\formlogin\obj\Debug\formlogin.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\Rlogin\formlogin\obj\Debug\formlogin.exe
+C:\Users\Alumno\Documents\Rlogin\formlogin\obj\Debug\formlogin.pdb
