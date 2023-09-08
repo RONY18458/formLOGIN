@@ -9,3 +9,4 @@ C:\Users\Alumno\Documents\Rlogin\formlogin\obj\Debug\formlogin.csproj.GenerateRe
 C:\Users\Alumno\Documents\Rlogin\formlogin\obj\Debug\formlogin.csproj.CoreCompileInputs.cache
 C:\Users\Alumno\Documents\Rlogin\formlogin\obj\Debug\formlogin.exe
 C:\Users\Alumno\Documents\Rlogin\formlogin\obj\Debug\formlogin.pdb
+C:\Users\Alumno\Documents\Rlogin\formlogin\obj\Debug\formlogin.registrarse.resources

@@ -54,6 +54,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="registrarse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registrarse.Designer.cs">
+      <DependentUpon>registrarse.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -65,7 +71,11 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="registrarse.resx">
+      <DependentUpon>registrarse.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -78,6 +88,30 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-technology-hud-login-information-background-picture-image_1614659.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\58c578f0017e92a7f116db08379b6a2d-icono-de-trazo-de-color-de-twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-user-membership-vector-5b498fc76f2a07.4607730515315475914553.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\58c578f0017e92a7f116db08379b6a2d-icono-de-trazo-de-color-de-twitter1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Account-Login-Button-PNG-Picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono-candado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-user-login-swiggy-5b24290687ba18.607449081529096454556 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-user-login-swiggy-5b24290687ba18.607449081529096454556 %281%291.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
