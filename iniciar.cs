@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace formlogin
 {
-    public partial class registrarse : Form
+    public partial class iniciar : Form
     {
-        public registrarse()
+        public iniciar()
         {
             InitializeComponent();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void iniciar_Load(object sender, EventArgs e)
         {
 
         }

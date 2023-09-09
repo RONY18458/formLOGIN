@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace formlogin
 {
-    public partial class registrarse : Form
+    public partial class Form2 : Form
     {
-        public registrarse()
+        public Form2()
         {
             InitializeComponent();
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
